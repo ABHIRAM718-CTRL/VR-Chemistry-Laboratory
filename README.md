@@ -30,7 +30,7 @@ The CXR Titration Laboratory project explores the use of virtual reality to crea
 
 ## Project Context
 
-This project is associated with work undertaken at the Centre for Extended Reality (CXR), GITAM University.Lead by Dr.M.Kranthi kiran.
+This project is associated with work undertaken at the Centre for Extended Reality (CXR), GITAM University, under the guidance of Dr.M.Kranthi kiran.
 
 ## Author
 
